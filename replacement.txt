@@ -1,0 +1,12 @@
+array(['rice', 'maize', 'chickpea', 'kidneybeans', 'pigeonpeas',
+       'mothbeans', 'mungbean', 'blackgram', 'lentil', 'pomegranate',
+       'banana', 'mango', 'grapes', 'watermelon', 'muskmelon', 'apple',
+       'marigold', 'papaya', 'coconut', 'cotton', 'jute', 'coffee'],
+      dtype=object)
+
+
+array(['1', '2', '3', '4', '5',
+       '6', '7', '8', '9', '10',
+       '11', '12', '13', '14', '15', '16',
+       '17', '18', '19', '20', '21', '22'],
+      dtype=object)
